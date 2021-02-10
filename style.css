@@ -1,0 +1,131 @@
+/* Heder part-css  */
+
+.w-img{
+ width: 150px;
+
+}
+.btn-ds{
+ padding: 10px 20px;
+ background-color: #28A745;
+ border: none;
+ border-radius: 20px;
+ color: #fff;
+ font-size: 16px;
+}
+.btn-ds:hover{
+  background-color: #F0FFF0;
+  color: #28A745;
+  border: 1px solid  #28A745 ;
+
+}
+.ex-h-ds{
+ font-weight: 900;
+ font-size: 60px;
+}
+.main{
+  background-color: #F0FFF0;
+  height: 500px;
+}
+.text-bold{
+  font-weight: 900;
+}
+
+/* service-section css start */
+
+.section img{
+  width: 80px;
+  margin: auto;
+  padding: 20px 0px;
+}
+.section h6{
+  font-size: 25px;
+}
+.ex-s{
+  box-shadow: 1px 2px 26px 1px rgba(230, 228, 228, 0.658);
+  border-radius: 10px;
+  background-color: #F0FFF0;
+  border: none;
+ margin-left: 80;
+
+}
+.col-width{
+  width: 200px;
+
+}
+.col-img{
+  width: 65px !important;
+}
+.col-width:hover{
+  background-color:#e78688;
+  transition-duration: .3s;
+  color: #fff;
+  
+   -moz-transform: scale(1.1) translate(-7px, -19px) skew(2deg, -1deg);
+   -webkit-transform: scale(1.1) translate(-7px, -19px) skew(2deg, -1deg);
+   -o-transform: scale(1.1) translate(-7px, -19px) skew(2deg, -1deg);
+   -ms-transform: scale(1.1) translate(-7px, -19px) skew(2deg, -1deg);
+   transform: scale(1.1) translate(-7px, -19px) skew(2deg, -1deg);
+ 
+}
+/* service-section css end */
+
+ /* online coaurse start  */
+ 
+.modifai-img img{
+  width: 20px;
+}
+.brd-ds{
+  border: none;
+  box-shadow: 1px 2px 26px 1px rgba(194, 190, 190, 0.658); 
+   background-color: #F0FFF0;
+   border-radius: 10px;
+}  
+.ds-txt{
+  font-weight: bold;
+}
+ /* online coaurse end */
+
+ /* testmonial css start  */
+ .testmonial img{
+   width: 200px;
+ }
+ .align-center{
+   margin-left: 200px;
+ }
+ .p-width{
+   width: 500px;
+ }
+ /* testimonial css end  */
+
+ /* footer css start  */
+
+ .footer ul li{
+   list-style: none;
+   
+   color: #fff;
+ }
+ .footer{
+   background: rgb(25, 23, 41);
+ }
+ .footer p{
+   color: white;
+   text-align: left;
+   margin: 0;
+   font-weight: bold;
+ }
+ .footer ul{
+   text-align:left;
+   margin-left: -38px;
+
+ }
+ .halka-padding{
+   
+   font-weight: normal!important;
+
+ }
+.footer{
+  height: 300px;
+}
+html{
+  scroll-behavior: smooth;
+}
